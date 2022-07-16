@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@400;700&display=swap');
+
+
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+.fs-7 {
+    font-size: 10px;
+}
+.bg-pink {
+    background: #f12711;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f5af19, #f12711); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.me-6 {
+    margin-right: 200px;
+}
+.mt-6 {
+    margin-top: 18%;
+}
+.mt-7 {
+    margin-top: 7rem;
+}
